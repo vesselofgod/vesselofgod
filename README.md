@@ -6,9 +6,15 @@
 [![vesselofgod's github stats](https://github-readme-stats.vercel.app/api?username=vesselofgod&show_icons=true&hide_border=true)](https://github.com/vesselofgod)
 
 
-- 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 - Android software development
 - Tensorflow/Keras
+
+### 🔭 My technology skills
+- python [main language] 
+- database management(Mysql, JDBC, ect...)
+- git/github
+- java
 
 
 <!--
@@ -16,7 +22,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
