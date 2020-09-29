@@ -10,6 +10,7 @@
 ### 🌱 I’m currently learning ...
 - Android software development
 - Tensorflow/Keras
+- React Native
 
 ### 🔭 My technology skills
 - python [main language] 
