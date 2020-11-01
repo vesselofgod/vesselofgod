@@ -13,7 +13,7 @@
 - React Native
 
 ### 🔭 My technology skills
-- python [main language] 
+- **python**
 - database management(Mysql, JDBC, ect...)
 - git/github
 - java
