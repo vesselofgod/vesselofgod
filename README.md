@@ -11,12 +11,14 @@
 - Android software development
 - Tensorflow/Keras
 - React Native
+- WebRTC
+
 
 ### 🔭 My technology skills
-- **python**
-- database management(Mysql, JDBC, ect...)
-- git/github
-- java
+- **Python**
+- Database management(Mysql, JDBC, ect...)
+- Git/github
+- Java
 
 
 <!--
