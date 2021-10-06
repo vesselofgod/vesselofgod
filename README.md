@@ -17,8 +17,9 @@
 ### 🔭 My technology skills
 - **Python**
 - Database management(Mysql, JDBC, ect...)
-- Git/github
-- Java
+- Code management tool(Git/github)
+- front-end : HTML/CSS/JavaScript/React
+- back-end : Node.js, Java
 
 
 <!--
