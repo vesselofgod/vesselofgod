@@ -1,10 +1,4 @@
-### Kanghee.J -- @vesselofgod
-
-👋 Hi! Welcome to my Github profile!
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oflofty@gmail.com)](mailto:oflofty@gmail.com)
-
-[![vesselofgod's github stats](https://github-readme-stats.vercel.app/api?username=vesselofgod&show_icons=true&hide_border=true)](https://github.com/vesselofgod)
+[![vesselofgod's github stats](https://github-readme-stats.vercel.app/api?username=vesselofgod&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/vesselofgod)
 
 
 ### 🌱 I’m currently learning ...
@@ -12,6 +6,7 @@
 - Tensorflow/Keras
 - React Native
 - WebRTC
+- node.js
 
 
 ### 🔭 My technology skills
