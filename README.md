@@ -7,6 +7,7 @@
 - React Native
 - WebRTC
 - node.js
+- django
 
 
 ### 🔭 My technology skills
