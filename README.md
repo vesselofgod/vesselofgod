@@ -8,6 +8,7 @@
 - WebRTC
 - node.js
 - django
+- flask
 
 
 ### 🔭 My technology skills
