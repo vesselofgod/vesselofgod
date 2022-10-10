@@ -1,5 +1,4 @@
-[![vesselofgod's github stats](https://github-readme-stats.vercel.app/api?username=vesselofgod&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/vesselofgod)
-
+![vesselofgod's GitHub stats](https://github-readme-stats.vercel.app/api?username=vesselofgod&include_all_commits=true&count_private=true&hide_border=true)
 
 ### 🌱 I’m currently learning ...
 - Android software development
