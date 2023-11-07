@@ -1,7 +1,7 @@
 ## Kanghee Jung 
 👋Hello, I'm Kanghee Jung. Backend & DevOps Enginner in Korea, Seoul
 
-![vesselofgod's GitHub stats](https://github-readme-stats.vercel.app/api?username=vesselofgod&include_all_commits=true&count_private=true&hide_border=true&show_icons=true)
+![vesselofgod's GitHub stats](https://github-readme-stats.vercel.app/api?username=vesselofgod&count_private=true&hide_border=true&show_icons=true)
 </br>
 
 ### 🌱 I’m currently learning ...
