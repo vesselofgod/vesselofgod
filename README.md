@@ -1,17 +1,15 @@
 ## Kanghee Jung 
-👋Hello, I'm Kanghee Jung. Backend & DevOps Enginner in Korea, Seoul
+👋Hello, I'm Kanghee Jung. Full Stack Developer in Korea, Seoul
 
-![vesselofgod's GitHub stats](https://github-readme-stats.vercel.app/api?username=vesselofgod&count_private=true&hide_border=true&show_icons=true)
-</br>
 
 ### 🌱 I’m currently learning ...
-- **Languages: Python, Java, Node.js, C++, Rust** 
+- **Languages: Python, Java, Node.js, C++, Rust, JavaScript** 
 - Database Management(RDBMS, NoSQL)
 - Information Security
 - DevOps Engineering
 
 ### ⚙️More About Me
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fvesselofgod&count_bg=%233D7EC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/vesselofgod)
+
 <a href="https://www.linkedin.com/in/kanghee-jung-424612226/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kanghee-jung-424612226/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
